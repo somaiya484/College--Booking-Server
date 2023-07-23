@@ -93,12 +93,3 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
     console.log('College Booking server is ready')
 })
-
-
-
-
-
-
-
-
-// x
